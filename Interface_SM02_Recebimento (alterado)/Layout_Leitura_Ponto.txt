@@ -1,0 +1,37 @@
+Nome do arquivo:
+
+Registros_ddmmaaaa_hhnnss.txt
+
+Onde:
+"Registros_"	= palavra fixa
+dd		= dia
+mm		= mês
+aaaa		= ano
+"_"		= caracter fixo
+hh		= horas
+nn		= minutos
+ss		= segundos
+".txt"		= Extensão
+
+Exemplo:
+
+Registros_07052008_083909.txt
+
+
+
+Campos de dados:
+
+1,22222,33333333,44444,55
+
+Onde
+
+1	= Tipo de registro (entrada/saída)
+2	= Número do Crachá
+3	= Data
+4	= Hora
+5	= Código do Relógio
+
+Exemplo:
+
+E,00200,07/05/08,09:35,01
+S,00200,07/05/08,09:36,01

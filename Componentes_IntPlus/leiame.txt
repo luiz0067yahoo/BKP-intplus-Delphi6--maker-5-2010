@@ -1,0 +1,21 @@
+Para instalar os componentes:
+
+no arquivo componentes.zip
+abrir o pacote FREEREP7.DPK com o delphi, clique em compile e depois em install.
+
+
+
+ainda no arquivo componentes.zip
+abrir o pacote Xcompo7.dpk com o delphi, clique em compile e depois em install.
+
+
+
+
+depois descompacte o RxLib.rar em algum lugar e adicione os componentes ao
+delphi conforme instruções do arquivo readme.txt que esta dentro do zip.
+
+
+
+
+
+
